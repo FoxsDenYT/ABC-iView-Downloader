@@ -7,6 +7,6 @@ A simple tool to download ABC iView episodes using AutoHotKey & youtube-dl
 
 ## Questions you may have
 
-**Q**:  Why does it take so long to download
+**Q**:  Why does it take so long to open?
 
 **A**:   It needs to check for updates to any backend scripts...
