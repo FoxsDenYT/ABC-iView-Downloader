@@ -1,0 +1,7 @@
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+title: ABC iView Downloader
+description: Simple open source downloader for ABC iView
+github:
+  another_url: https://github.com/SDWaps/ABC-iView-Downloader/raw/gh-pages/ABC%20iView%20Downloader.exe
